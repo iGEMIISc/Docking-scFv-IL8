@@ -24,6 +24,6 @@ Grid center: X 0 Y 0 Z 10.186
 Grid size  : X 126 Y 126 Z 126
 Grid space : 0.375
 Exhaustiveness: 8
-CPU: 4
+CPU: 0
 Verbosity: 1
 
