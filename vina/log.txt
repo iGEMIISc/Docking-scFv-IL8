@@ -20,8 +20,8 @@ AutoDock Vina v1.2.5
 Scoring function : vina
 Rigid receptor: scfv.pdbqt
 Ligand: il8_model1.pdbqt
-Grid center: X 0 Y 0 Z 10.186
-Grid size  : X 126 Y 126 Z 126
+Grid center: X 0 Y 0.751 Z -3.231
+Grid size  : X 40 Y 68 Z 56
 Grid space : 0.375
 Exhaustiveness: 8
 CPU: 0

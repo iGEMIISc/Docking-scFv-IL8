@@ -4,9 +4,9 @@ ligand = il8_model1.pdbqt
 out = all.pdbqt
 
 center_x = 0
-center_y = 0
-center_z = 10.186
+center_y = 0.751
+center_z = -3.231
 
-size_x = 126
-size_y = 126
-size_z = 126
+size_x = 40
+size_y = 68
+size_z = 56
