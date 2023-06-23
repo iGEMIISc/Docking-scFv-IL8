@@ -1,0 +1,10 @@
+# Description of the files:
+# -----------------------------------------------
+#
+# receptor.pdb			Submitted receptor PDB file
+# lignd.pdb			Submitted ligand PDB file
+# receptor-ligand.res		Rotation angles and translation coordinates of ligand protein for scan stage docking models 
+# model_*.pdb     		PDB file of models after refinement 
+# output.log                    Out message or Error log file
+#
+# -----------------------------------------------

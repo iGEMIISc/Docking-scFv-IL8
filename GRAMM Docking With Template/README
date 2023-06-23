@@ -1,0 +1,52 @@
+#------------------------------------------------------------------------------
+#
+#Template‐based docking was performed by the full or interface structure alignment protocol.
+#
+#The scoring of the initial models was performed by the combined scoring function.
+#
+#(Kundrotas et. al., Proteins. 2018;86(suppl 1):302‐310)
+#
+#
+# Description of the files:
+# -----------------------------------------------
+# 
+# receptor.pdb			Submitted receptor PDB file
+# lignd.pdb			Submitted ligand PDB file
+# model_*.pdb     		PDB file of models after refinement 
+#
+# list_templates.txt		List of templates if user selected custom template library
+# TBD_results.txt		Results of template based docking are stored in this file.
+#
+# output.log			Out message or Error log file
+#
+#
+# -----------------------------------------------
+#
+#
+#  The result file (TBD_results.txt) contains the following parameters as a column list:
+#  Contents of the columns:
+#  
+#  Label       --  name of the template that produced the docking model;
+#  Score       --  combined score ( NOTE: all columns are sorted by this score )
+#  TM-score1   --  TM-score receptor/target-receptor
+#  TM-score2   --  TM-score ligand/target-ligand
+#  FSC-score   --  score based on the number of shared contacts 
+#  iSeqID1     --  sequence identity receptor/target-receptor
+#  iSeqID2     --  sequence identity ligand/target-ligand
+#  dSASA       --  difference in the values of Surface-Accessible Surface Area 
+#  d_av        --  average measure of clashes in produced docking model
+#  AACE18      --  interface energy calculated by the semi-empirical atom-atom contact potential
+#  SolEM       --  desolvation energy
+#  trgtLen1    --  length of the target receptor
+#  trgtLen2    --  length of the target ligand
+#  tmpltLen1   --  lenght of the template receptor
+#  tmpltLen2   -- lenght of the template ligand
+#  aliLen1     --  length of aligned receptor structure
+#  aliLen2     --  length of aligned ligand structure
+#  t[ 0 ]      --  translation of ligand along X-axis
+#  t[ 1 ]      --  translation of ligand along Y-axis
+#  t[ 2 ]      --  translation of ligand along Z-axis
+#  u[ i ][ j ] --  elements of the rotation matrix for the ligand
+#
+#
+#  ------------------------------------------------------------------------------
