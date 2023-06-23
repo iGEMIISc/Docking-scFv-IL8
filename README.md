@@ -12,13 +12,17 @@ GRAMM is a docking web server that maps the intermolecular energy landscape by p
 
 ### Free Docking
 
-In a free docking algorithm, a large number of conformations of the two proteins are evaluated to minimize the energy of their interaction. By doing this, GRAMM provided us a docking with an energy of 
+In a free docking algorithm, a large number of conformations of the two proteins are evaluated to minimize the energy of their interaction. 
+
+<!-- By doing this, GRAMM provided us a docking with an energy of -->
+
+<img src="https://github.com/iGEMIISc/Docking-scFv-IL8/blob/master/GRAMM%20FreeDocking/model1.gif?raw=true">
 
 ### Template-based Docking
 
 In the template-based method, a search is made from the PDB to identify heterodimer templates for our target. Then, homology modeling is used to map the target sequence onto the template structure.
 
-<img src="https://">
+<img src="https://github.com/iGEMIISc/Docking-scFv-IL8/blob/master/GRAMM%20Docking%20With%20Template/model1.gif?raw=true">
 
 ### Citations
 
