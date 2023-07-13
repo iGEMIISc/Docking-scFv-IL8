@@ -1,1 +1,0 @@
-vina --config conf.txt > log.txt
