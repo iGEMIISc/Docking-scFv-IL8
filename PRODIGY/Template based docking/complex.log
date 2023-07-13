@@ -1,0 +1,49 @@
+[+] Reading structure file: /data/runs/pUS_3RQFdfOg/complex.pdb
+[!] Structure contains gaps:
+	C ALA2 < Fragment 0 > C CYS50
+	C LEU51 < Fragment 1 > C SER72
+	A LEU3 < Fragment 2 > A LEU7
+	A LEU9 < Fragment 3 > A LEU10
+	A LEU20 < Fragment 4 > A LEU21
+	A LEU27 < Fragment 5 > A VAL28
+	A LEU128 < Fragment 6 > A VAL129
+	A LEU194 < Fragment 7 > A LEU195
+	A TYR47 < Fragment 8 > A TYR48
+	A TYR75 < Fragment 9 > A TYR76
+	A TYR110 < Fragment 10 > A TYR111
+	A TYR234 < Fragment 11 > A TYR235
+	A HIS288 < Fragment 12 > A HIS293
+	A ALA39 < Fragment 13 > A ALA40
+	A THR107 < Fragment 14 > A ALA108
+	A ALA198 < Fragment 15 > A ALA199
+	A ALA232 < Fragment 16 > A THR233
+	A ALA279 < Fragment 17 > A ALA281
+	A GLN185 < Fragment 18 > A GLN186
+	A GLN237 < Fragment 19 > A GLN238
+	A ASP274 < Fragment 20 > A ASP277
+	A SER23 < Fragment 21 > A GLY26
+	A GLY31 < Fragment 22 > A SER33
+	A SER41 < Fragment 23 > A GLY42
+	A SER65 < Fragment 24 > A GLY66
+	A SER70 < Fragment 25 > A GLY73
+	A SER132 < Fragment 26 > A SER148
+	A SER157 < Fragment 27 > A SER158
+	A SER178 < Fragment 28 > A SER179
+	A SER200 < Fragment 29 > A SER201
+	A SER204 < Fragment 30 > A GLY205
+	A SER211 < Fragment 31 > A GLY216
+	A SER224 < Fragment 32 > A SER225
+	A GLY286 < Fragment 33 > A GLY287
+
+[+] Parsed structure file complex (2 chains, 364 residues)
+[+] No. of intermolecular contacts: 17
+[+] No. of charged-charged contacts: 0
+[+] No. of charged-polar contacts: 0
+[+] No. of charged-apolar contacts: 9
+[+] No. of polar-polar contacts: 1
+[+] No. of apolar-polar contacts: 6
+[+] No. of apolar-apolar contacts: 1
+[+] Percentage of apolar NIS residues: 39.81
+[+] Percentage of charged NIS residues: 23.30
+[++] Predicted binding affinity (kcal.mol-1):     -7.4
+[++] Predicted dissociation constant (M) at 36.0˚C:  6.3e-06
